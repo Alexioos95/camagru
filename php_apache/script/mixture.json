@@ -1,0 +1,307 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"email": "user1@yopmail.fr",
+			"username": "user1",
+			"password": "user1",
+			"isActive": true
+		},
+		{
+			"id": 2,
+			"email": "user2@yopmail.fr",
+			"username": "user2",
+			"password": "user2",
+			"isActive": true
+		}
+	],
+	"images": [
+		{
+			"id": 1,
+			"path": "/uploads/1/1.jpg",
+			"author": 1,
+			"createdAt": 0
+		},
+		{
+			"id": 2,
+			"path": "/uploads/1/2.jpg",
+			"author": 1,
+			"createdAt": 1
+		},
+		{
+			"id": 3,
+			"path": "/uploads/1/3.jpg",
+			"author": 1,
+			"createdAt": 2
+		},
+		{
+			"id": 4,
+			"path": "/uploads/1/4.jpg",
+			"author": 1,
+			"createdAt": 3
+		},
+		{
+			"id": 5,
+			"path": "/uploads/1/5.jpg",
+			"author": 1,
+			"createdAt": 4
+		},
+		{
+			"id": 6,
+			"path": "/uploads/1/6.jpg",
+			"author": 1,
+			"createdAt": 5
+		},
+		{
+			"id": 7,
+			"path": "/uploads/1/7.jpg",
+			"author": 1,
+			"createdAt": 6
+		},
+		{
+			"id": 8,
+			"path": "/uploads/1/8.jpg",
+			"author": 1,
+			"createdAt": 7
+		},
+		{
+			"id": 9,
+			"path": "/uploads/1/9.jpg",
+			"author": 1,
+			"createdAt": 8
+		},
+		{
+			"id": 10,
+			"path": "/uploads/1/10.jpg",
+			"author": 1,
+			"createdAt": 9
+		},
+		{
+			"id": 11,
+			"path": "/uploads/1/11.jpg",
+			"author": 1,
+			"createdAt": 10
+		},
+		{
+			"id": 12,
+			"path": "/uploads/1/12.jpg",
+			"author": 1,
+			"createdAt": 11
+		},
+		{
+			"id": 13,
+			"path": "/uploads/1/13.jpg",
+			"author": 1,
+			"createdAt": 12
+		},
+		{
+			"id": 14,
+			"path": "/uploads/1/14.jpg",
+			"author": 1,
+			"createdAt": 13
+		},
+		{
+			"id": 15,
+			"path": "/uploads/1/15.jpg",
+			"author": 1,
+			"createdAt": 14
+		},
+		{
+			"id": 16,
+			"path": "/uploads/1/16.jpg",
+			"author": 1,
+			"createdAt": 15
+		},
+		{
+			"id": 17,
+			"path": "/uploads/1/17.jpg",
+			"author": 1,
+			"createdAt": 16
+		},
+		{
+			"id": 18,
+			"path": "/uploads/1/18.jpg",
+			"author": 1,
+			"createdAt": 17
+		},
+		{
+			"id": 19,
+			"path": "/uploads/1/19.jpg",
+			"author": 1,
+			"createdAt": 18
+		},
+		{
+			"id": 20,
+			"path": "/uploads/1/20.jpg",
+			"author": 1,
+			"createdAt": 19
+		},
+		{
+			"id": 21,
+			"path": "/uploads/1/21.jpg",
+			"author": 1,
+			"createdAt": 20
+		},
+		{
+			"id": 22,
+			"path": "/uploads/1/22.jpg",
+			"author": 1,
+			"createdAt": 21
+		},
+		{
+			"id": 23,
+			"path": "/uploads/1/23.jpg",
+			"author": 1,
+			"createdAt": 22
+		},
+		{
+			"id": 24,
+			"path": "/uploads/1/24.jpg",
+			"author": 1,
+			"createdAt": 23
+		},
+		{
+			"id": 25,
+			"path": "/uploads/1/25.jpg",
+			"author": 1,
+			"createdAt": 24
+		},
+		{
+			"id": 26,
+			"path": "/uploads/1/26.jpg",
+			"author": 1,
+			"createdAt": 25
+		},
+		{
+			"id": 27,
+			"path": "/uploads/1/27.jpg",
+			"author": 1,
+			"createdAt": 26
+		},
+		{
+			"id": 28,
+			"path": "/uploads/1/28.jpg",
+			"author": 1,
+			"createdAt": 27
+		},
+		{
+			"id": 29,
+			"path": "/uploads/1/29.jpg",
+			"author": 1,
+			"createdAt": 28
+		},
+		{
+			"id": 30,
+			"path": "/uploads/1/30.jpg",
+			"author": 1,
+			"createdAt": 29
+		},
+		{
+			"id": 31,
+			"path": "/uploads/1/31.jpg",
+			"author": 1,
+			"createdAt": 30
+		},
+		{
+			"id": 32,
+			"path": "/uploads/1/32.jpg",
+			"author": 1,
+			"createdAt": 31
+		},
+		{
+			"id": 33,
+			"path": "/uploads/1/33.jpg",
+			"author": 1,
+			"createdAt": 32
+		},
+		{
+			"id": 34,
+			"path": "/uploads/1/34.jpg",
+			"author": 1,
+			"createdAt": 33
+		},
+		{
+			"id": 35,
+			"path": "/uploads/1/35.jpg",
+			"author": 1,
+			"createdAt": 34
+		},
+		{
+			"id": 36,
+			"path": "/uploads/1/36.jpg",
+			"author": 1,
+			"createdAt": 35
+		},
+		{
+			"id": 37,
+			"path": "/uploads/1/37.jpg",
+			"author": 1,
+			"createdAt": 36
+		},
+		{
+			"id": 38,
+			"path": "/uploads/1/38.jpg",
+			"author": 1,
+			"createdAt": 37
+		},
+		{
+			"id": 39,
+			"path": "/uploads/1/39.jpg",
+			"author": 1,
+			"createdAt": 38
+		},
+		{
+			"id": 40,
+			"path": "/uploads/1/40.jpg",
+			"author": 1,
+			"createdAt": 39
+		},
+		{
+			"id": 41,
+			"path": "/uploads/1/41.jpg",
+			"author": 1,
+			"createdAt": 40
+		},
+		{
+			"id": 42,
+			"path": "/uploads/1/42.jpg",
+			"author": 1,
+			"createdAt": 41
+		}
+	],
+	"likes": [
+		{
+			"author": 1,
+			"toImage": 42
+		},
+		{
+			"author": 2,
+			"toImage": 42
+		},
+		{
+			"author": 2,
+			"toImage": 40
+		},
+		{
+			"author": 2,
+			"toImage": 37
+		}
+	],
+	"comments": [
+		{
+			"author": 2,
+			"toImage": 42,
+			"message": "Damn boi!"
+		},
+		{
+			"author": 1,
+			"toImage": 42,
+			"message": "Hell yeaaaaaah"
+		},
+		{
+			"author": 1,
+			"toImage": 40,
+			"message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		}
+	]
+}
