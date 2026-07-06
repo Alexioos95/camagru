@@ -1,3 +1,17 @@
-Site internet Instagram-like en PHP, permettant de publier des montages photos fait à partir d'une webcam ou une image téléversée et des éléments préfournis.
+Site internet Instagram-like en PHP, permettant de publier des montages photos fait à partir d'une capture de webcam ou une image téléversée et des éléments préfournis.
 
-Usage: ```make``` afin de lancer les Dockers, avec le serveur Apache sur le port ```8443```.
+## Usage
+
+Créer un fichier ```.env``` avec les variables nécessaires, et ```make``` afin de lancer les Dockers. Le serveur Apache tournera sur ```https://<DUMP>:8443```.
+
+## Fonctionnalités
+- Gestion de sessions utilisateurs (inscription, connexion, mot de passe oublié, modification d'informations, et cookies)
+- Envoie de mails de confirmation d'inscription, réinitialisation de mot de passe et notifications de nouveaux commentaires
+- Galerie d'image publique en scroll infini avec interaction sociales (commentaires et likes)
+- Montage photo avec incrustrations de filtres pouvant être déplacés et supprimés
+- Capture webcam et upload d'image
+- Suppression d'une photo par l'utilisateur
+
+## Demo
+<img src="https://i.imgur.com/sVGwak9.gif" alt="Login" width="500"> <img src="https://i.imgur.com/2O5Y9Fg.gif" alt="Interaction sociales" width="500">  
+<img src="https://i.imgur.com/FN1XCam.gif" alt="Galerie avec scroll infini" width="500"> <img src="https://i.imgur.com/U2TjMik.gif" alt="Montage photo" width="500">
