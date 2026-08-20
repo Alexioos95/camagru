@@ -1,6 +1,6 @@
 # camagru
 
-Site internet Instagram-like en PHP, permettant de publier des montages photos réalisés à partir d'une capture de webcam ou une image téléversée et des éléments prédéfinis.
+Application web Instagram-like en PHP, permettant de publier des montages photos réalisés à partir d'une capture de webcam ou une image téléversée et des éléments prédéfinis.
 
 ## Usage
 
