@@ -4,7 +4,7 @@ Site internet Instagram-like en PHP, permettant de publier des montages photos r
 
 ## Usage
 
-Créer un fichier ```.env``` avec les variables nécessaires, et ```make``` afin de lancer les Dockers. Le serveur Apache tournera sur ```https://<DUMP>:8443```.
+Créer un fichier ```.env``` avec les variables nécessaires à la racine du projet, et ```make``` afin de lancer les Dockers. Le serveur Apache tournera sur ```https://<DUMP>:8443```.
 
 ## Fonctionnalités
 - Gestion de sessions utilisateurs (inscription, connexion, récupération de mot de passe oublié, modification d'informations, et cookies)
